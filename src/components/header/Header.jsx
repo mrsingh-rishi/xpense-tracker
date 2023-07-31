@@ -9,7 +9,7 @@ const Header = () => {
           Xpensr. <img src={logo} className="logo" />
         </div>
         <div className="header-button">
-          <a href="https://github.com/mrsingh-rishi" target="_blank">
+          <a href="https://github.com/mrsingh-rishi" target="_blank" rel="noreferrer">
             <i class="devicon-github-original colored"></i>Start
           </a>
         </div>
